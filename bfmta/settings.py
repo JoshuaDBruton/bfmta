@@ -25,7 +25,7 @@ SECRET_KEY = 'rg+4(g=pan+n)f*%tls9%qtt8b6e@+!lk=y-j8z4$tf%ql^&tc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
